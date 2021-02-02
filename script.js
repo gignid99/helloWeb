@@ -5,6 +5,5 @@ btn.onclick = event => {
     alert("Hello, and bye!");
 };
 
-btn2.onclick = event => {
-    alert("Okay. Close this now");
-};
+
+
